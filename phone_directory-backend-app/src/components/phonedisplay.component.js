@@ -68,7 +68,7 @@ export default class PhoneInput extends Component {
     render() {
         return (
             <div style={{marginTop: 20}}>
-                <h3>Create New Todo</h3>
+                <h3>Add Your Contact</h3>
                 <form onSubmit={this.onSubmit}>
                     <div className="form-group">
                         <label>Name: </label>
